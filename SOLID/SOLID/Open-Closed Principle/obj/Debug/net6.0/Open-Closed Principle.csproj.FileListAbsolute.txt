@@ -1,0 +1,14 @@
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Open-Closed Principle\bin\Debug\net6.0\Open-Closed Principle.exe
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Open-Closed Principle\bin\Debug\net6.0\Open-Closed Principle.deps.json
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Open-Closed Principle\bin\Debug\net6.0\Open-Closed Principle.runtimeconfig.json
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Open-Closed Principle\bin\Debug\net6.0\Open-Closed Principle.dll
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Open-Closed Principle\bin\Debug\net6.0\Open-Closed Principle.pdb
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Open-Closed Principle\obj\Debug\net6.0\Open-Closed Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Open-Closed Principle\obj\Debug\net6.0\Open-Closed Principle.AssemblyInfoInputs.cache
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Open-Closed Principle\obj\Debug\net6.0\Open-Closed Principle.AssemblyInfo.cs
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Open-Closed Principle\obj\Debug\net6.0\Open-Closed Principle.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Open-Closed Principle\obj\Debug\net6.0\Open-Closed Principle.dll
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Open-Closed Principle\obj\Debug\net6.0\refint\Open-Closed Principle.dll
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Open-Closed Principle\obj\Debug\net6.0\Open-Closed Principle.pdb
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Open-Closed Principle\obj\Debug\net6.0\Open-Closed Principle.genruntimeconfig.cache
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Open-Closed Principle\obj\Debug\net6.0\ref\Open-Closed Principle.dll

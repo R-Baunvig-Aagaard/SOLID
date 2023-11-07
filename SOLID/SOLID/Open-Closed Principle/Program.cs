@@ -20,7 +20,7 @@
             }
             foreach (var emp in employees)
             {
-                Console.WriteLine($"{emp.Firstname}{emp.Lastname}:{emp.EmailAddress}");
+                Console.WriteLine($"{emp.Firstname}{emp.Lastname}:{emp.EmailAddress} Is Manager: {emp.IsManager}");
 
             }
         }

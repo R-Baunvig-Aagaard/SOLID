@@ -11,5 +11,7 @@ namespace Open_Closed_Principle
         public string Firstname { get; set; }
         public string Lastname { get; set; }
         public string EmailAddress { get; set; }
+
+        public bool IsManager { get; set; } = false;
     }
 }
