@@ -1,0 +1,14 @@
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Single Responsibility Principle\bin\Debug\net6.0\Single Responsibility Principle.exe
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Single Responsibility Principle\bin\Debug\net6.0\Single Responsibility Principle.deps.json
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Single Responsibility Principle\bin\Debug\net6.0\Single Responsibility Principle.runtimeconfig.json
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Single Responsibility Principle\bin\Debug\net6.0\Single Responsibility Principle.dll
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Single Responsibility Principle\bin\Debug\net6.0\Single Responsibility Principle.pdb
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.AssemblyInfoInputs.cache
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.AssemblyInfo.cs
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.dll
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Single Responsibility Principle\obj\Debug\net6.0\refint\Single Responsibility Principle.dll
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.pdb
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.genruntimeconfig.cache
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Single Responsibility Principle\obj\Debug\net6.0\ref\Single Responsibility Principle.dll
