@@ -10,7 +10,7 @@ namespace Single_Responsibility_Principle
     {
         public static void CreateAccount(Person user)
         {
-            Console.WriteLine($" Your username is {user.Firstname.Substring(0, 1)}{user.Lastname}");
+            Console.WriteLine($"Your username is {user.Firstname.Substring(0, 1)}{user.Lastname}");
         }
     }
 }
