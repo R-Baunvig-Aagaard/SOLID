@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Liskov_Substitution_Principle
 {
-    public class CEO : Employee
+    public class CEO : BaseEmployee, IManager
     {
         public override void CalculateHourRate(int rank)
         {
@@ -14,10 +14,6 @@ namespace Liskov_Substitution_Principle
             Salary = baseAmount + rank;
         }
 
-        public override void AssignManager(Employee manager)
-        {
-            throw new InvalidOperationException("CEO has no manager");
-        }
         public void GeneratePerformanceReview()
         {
             Console.WriteLine("Report of performance");

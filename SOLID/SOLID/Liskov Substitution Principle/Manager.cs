@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Liskov_Substitution_Principle
 {
-    public class Manager : Employee
+    public class Manager : Employee, IManager
     {
         public override void CalculateHourRate(int rank)
         {

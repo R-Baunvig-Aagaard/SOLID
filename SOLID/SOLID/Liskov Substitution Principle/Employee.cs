@@ -6,25 +6,16 @@ using System.Threading.Tasks;
 
 namespace Liskov_Substitution_Principle
 {
-    public class Employee
+    public class Employee : BaseEmployee, IManaged
     {
-        public string Firstname { get; set; }
-        public string Lastname { get; set; }
+        public IEmployee Manager { get; set; } = null;
 
-        public Employee Manager { get; set; } = null;
-
-        public decimal Salary { get; set; }
-
-        public virtual void AssignManager(Employee manager)
+        
+        public virtual void AssignManager(IEmployee manager)
         {
             //Do stuff
             Manager = manager;
         }
 
-        public virtual void CalculateHourRate(int rank)
-        {
-            decimal baseAmount = 12.50M;
-            Salary = baseAmount + (rank * 2);
-        }
     }
 }
