@@ -9,15 +9,16 @@ namespace Interface_Segregation_Principle
     public interface ILibraryItem
     {
         string Title { get; set; }
-        string Author { get; set; }
-        DateTime BorrowDate { get; set; }
-        string Borrower { get; set; }
-        int CheckOutDurationInDays { get; set; }
         string LibraryId { get; set; }
-        int Pages { get; set; }
-        void CheckIn();
-        void CheckOut(string borrower);
-        DateTime GetDueDate();
+        //string Author { get; set; }
+        //int Pages { get; set; }
+        //DateTime BorrowDate { get; set; }
+        //string Borrower { get; set; }
+        //int CheckOutDurationInDays { get; set; }
+        //string LibraryId { get; set; }
+        //void CheckIn();
+        //void CheckOut(string borrower);
+        //DateTime GetDueDate();
 
 
     }
