@@ -1,0 +1,14 @@
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Liskov Substitution Principle\bin\Debug\net6.0\Liskov Substitution Principle.exe
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Liskov Substitution Principle\bin\Debug\net6.0\Liskov Substitution Principle.deps.json
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Liskov Substitution Principle\bin\Debug\net6.0\Liskov Substitution Principle.runtimeconfig.json
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Liskov Substitution Principle\bin\Debug\net6.0\Liskov Substitution Principle.dll
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Liskov Substitution Principle\bin\Debug\net6.0\Liskov Substitution Principle.pdb
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Liskov Substitution Principle\obj\Debug\net6.0\Liskov Substitution Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Liskov Substitution Principle\obj\Debug\net6.0\Liskov Substitution Principle.AssemblyInfoInputs.cache
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Liskov Substitution Principle\obj\Debug\net6.0\Liskov Substitution Principle.AssemblyInfo.cs
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Liskov Substitution Principle\obj\Debug\net6.0\Liskov Substitution Principle.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Liskov Substitution Principle\obj\Debug\net6.0\Liskov Substitution Principle.dll
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Liskov Substitution Principle\obj\Debug\net6.0\refint\Liskov Substitution Principle.dll
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Liskov Substitution Principle\obj\Debug\net6.0\Liskov Substitution Principle.pdb
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Liskov Substitution Principle\obj\Debug\net6.0\Liskov Substitution Principle.genruntimeconfig.cache
+C:\Users\rasmu\Documents\GitHub\portfolio\SOLID\SOLID\Liskov Substitution Principle\obj\Debug\net6.0\ref\Liskov Substitution Principle.dll
