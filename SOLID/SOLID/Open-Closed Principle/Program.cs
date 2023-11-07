@@ -8,7 +8,7 @@
             { 
                 new PersonModel { Firstname = "Tim", Lastname = "Jensen"},
                 new ManagerModel { Firstname = "Bo", Lastname = "Nielsen"},
-                new PersonModel { Firstname = "Kim", Lastname = "Andersen"}
+                new CEOModel { Firstname = "Kim", Lastname = "Andersen"}
             };
 
             List<EmployeeModel> employees = new List<EmployeeModel>();
