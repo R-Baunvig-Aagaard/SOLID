@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 Software Projects &amp; Topics
 
 # SOLID 
