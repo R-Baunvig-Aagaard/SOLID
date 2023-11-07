@@ -7,7 +7,7 @@
             List<IApplicantModel> applicants = new List<IApplicantModel>
             { 
                 new PersonModel { Firstname = "Tim", Lastname = "Jensen"},
-                new PersonModel { Firstname = "Bo", Lastname = "Nielsen"},
+                new ManagerModel { Firstname = "Bo", Lastname = "Nielsen"},
                 new PersonModel { Firstname = "Kim", Lastname = "Andersen"}
             };
 
@@ -20,7 +20,7 @@
             }
             foreach (var emp in employees)
             {
-                Console.WriteLine($"{emp.Firstname}{emp.Lastname}:{emp.EmailAddress} Is Manager: {emp.IsManager}");
+                Console.WriteLine($"{emp.Firstname}{emp.Lastname}:{emp.EmailAddress} Is Manager: {emp.IsManager} Is CEO: {emp.IsCEO}");
 
             }
         }

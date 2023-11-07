@@ -13,5 +13,7 @@ namespace Open_Closed_Principle
         public string EmailAddress { get; set; }
 
         public bool IsManager { get; set; } = false;
+
+        public bool IsCEO { get; set; } = false;
     }
 }
