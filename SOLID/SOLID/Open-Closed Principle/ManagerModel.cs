@@ -10,6 +10,6 @@ namespace Open_Closed_Principle
     {
         public string Firstname { get; set; }
         public string Lastname { get; set; }
-        public IAccounts AccountProcessor { get; set;}
+        public IAccounts AccountProcessor { get; set;} = new ManagerAccounts();
     }
 }
