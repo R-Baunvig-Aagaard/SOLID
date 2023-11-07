@@ -8,6 +8,7 @@ namespace Interface_Segregation_Principle
 {
     public interface ILibraryItem
     {
+        string Title { get; set; }
         string Author { get; set; }
         DateTime BorrowDate { get; set; }
         string Borrower { get; set; }
