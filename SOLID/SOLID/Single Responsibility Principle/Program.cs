@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the application");
+            StandardMessage.WelcomeMessage();
 
             Person user = new Person();
 
