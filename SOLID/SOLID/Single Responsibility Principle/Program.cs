@@ -12,14 +12,14 @@
 
             if (isUSerValid == false ) 
             {
-                Console.WriteLine("End of Application");
+                StandardMessage.EndMessage();
             }
 
           
 
             Console.WriteLine($" Your username is {user.Firstname.Substring(0, 1)}{user.Lastname}");
 
-
+            StandardMessage.EndMessage();
         }
     }
 }

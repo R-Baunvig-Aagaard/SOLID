@@ -12,5 +12,10 @@ namespace Single_Responsibility_Principle
         {
             Console.WriteLine("Welcome to the application");
         }
+
+        public static void EndMessage()
+        {
+            Console.WriteLine("End of Application");
+        }
     }
 }
