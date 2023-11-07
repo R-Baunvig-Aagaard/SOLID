@@ -6,13 +6,9 @@
         {
             StandardMessage.WelcomeMessage();
 
-            Person user = new Person();
+            Person user = PersonCapture.Capture();
 
-            Console.Write("What is your first name: ");
-            user.Firstname = Console.ReadLine();
-
-            Console.Write("What is your last name: ");
-            user.Lastname = Console.ReadLine();
+            
 
             if(string.IsNullOrWhiteSpace(user.Firstname)) 
             {
