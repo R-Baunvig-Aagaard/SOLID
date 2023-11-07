@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            List<PersonModel> applicants = new List<PersonModel>
+            List<IApplicantModel> applicants = new List<IApplicantModel>
             { 
                 new PersonModel { Firstname = "Tim", Lastname = "Jensen"},
                 new PersonModel { Firstname = "Bo", Lastname = "Nielsen"},
@@ -12,11 +12,11 @@
             };
 
             List<EmployeeModel> employees = new List<EmployeeModel>();
-            Accounts accountProcessor = new Accounts();
+            
             
             foreach (var person in applicants)
             {
-                employees.Add(accountProcessor.Create(person));     
+                employees.Add(person.AccountProcessor.Create(person));     
             }
             foreach (var emp in employees)
             {

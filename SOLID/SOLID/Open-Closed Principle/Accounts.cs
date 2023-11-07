@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Open_Closed_Principle
 {
-    public class Accounts
+    public class Accounts : IAccounts
     {
-        public EmployeeModel Create(PersonModel person)
+        public EmployeeModel Create(IApplicantModel person)
         {
             EmployeeModel output = new EmployeeModel();
             output.Firstname = person.Firstname;

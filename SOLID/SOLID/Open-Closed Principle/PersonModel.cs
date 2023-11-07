@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace Open_Closed_Principle
 {
-    public class PersonModel
+    public class PersonModel : IApplicantModel
     {
         public string Firstname { get; set; }
         public string Lastname { get; set; }
+
+        public IAccounts AccountProcessor { get; set; } = new Accounts();
     }
 }
