@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Person owner = new Person
+            IPerson owner = new Person
             {
                 FirstName = "Tom",
                 LastName = "Jensen",

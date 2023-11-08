@@ -8,7 +8,7 @@ namespace Dependency_Inversion_Principle
 {
     public class Emailer
     {
-        public void SendEmail(Person person, string message)
+        public void SendEmail(IPerson person, string message)
         {
             Console.WriteLine($"Simulate sending an email to {person.EmailAddress}");
         }
